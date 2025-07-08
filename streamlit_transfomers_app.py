@@ -18,7 +18,7 @@ def load_model():
 model = load_model()
 
 # Interface utilisateur
-st.title("LLM Chatbot (Hugging Face - GPT-2)")
+st.title("Dalal ak diameu. Nangadef ak lo beugone lérlou ?")
 
 user_input = st.text_input("Posez votre question ici :")
 
